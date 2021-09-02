@@ -1,0 +1,15 @@
+table {
+  border-spacing: 0 15px;
+}
+
+th {
+  background-color: #4a8df8;
+  color: white;
+}
+
+th,
+td {
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
